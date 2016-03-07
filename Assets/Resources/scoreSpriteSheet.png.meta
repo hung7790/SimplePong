@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 8b79b659dd8eff34b9113c0ef6dfe55a
+timeCreated: 1455722069
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: clipart-numbers-numbers_set_0
+    21300002: clipart-numbers-numbers_set_1
+    21300004: clipart-numbers-numbers_set_2
+    21300006: clipart-numbers-numbers_set_3
+    21300008: clipart-numbers-numbers_set_4
+    21300010: clipart-numbers-numbers_set_5
+    21300012: clipart-numbers-numbers_set_6
+    21300014: clipart-numbers-numbers_set_7
+    21300016: clipart-numbers-numbers_set_8
+    21300018: clipart-numbers-numbers_set_9
+    21300020: scoreSpriteSheet_0
+    21300022: scoreSpriteSheet_1
+    21300024: scoreSpriteSheet_2
+    21300026: scoreSpriteSheet_3
+    21300028: scoreSpriteSheet_4
+    21300030: scoreSpriteSheet_5
+    21300032: scoreSpriteSheet_6
+    21300034: scoreSpriteSheet_7
+    21300036: scoreSpriteSheet_8
+    21300038: scoreSpriteSheet_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: scoreSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2014
+        width: 1078
+        height: 1513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scoreSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 2010
+        width: 799
+        height: 1523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scoreSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 2014
+        width: 840
+        height: 1502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scoreSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 5222
+        y: 2010
+        width: 848
+        height: 1502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scoreSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 6766
+        y: 2006
+        width: 1021
+        height: 1517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scoreSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 25
+        width: 844
+        height: 1490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scoreSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 17
+        width: 932
+        height: 1525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scoreSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 21
+        width: 951
+        height: 1494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scoreSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 5131
+        y: 0
+        width: 947
+        height: 1569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scoreSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 6831
+        y: 13
+        width: 927
+        height: 1525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
