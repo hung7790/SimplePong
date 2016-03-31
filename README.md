@@ -1,5 +1,4 @@
 # SimplePong
-Pong using Unity C#
 This is a simple Pong Game done as a request of sample code for recruitment.
 The requirements is specified below:
 
